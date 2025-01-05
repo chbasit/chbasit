@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @basit
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-basit/basit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m Basit!
+👀 I’m passionate about web development, specializing in React.js,Next.js and Node.js.
+🌱 Currently learning Next.js and backend optimization.
+💞️ Open to collaborating on exciting full-stack projects.
+📫 Reach me at: abdulbasitswl2002@gmail.com
