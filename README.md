@@ -2,7 +2,7 @@
 
 👀 I’m passionate about web development, specializing in React.js,Next.js and Node.js.
 
-🌱 Currently learning Next.js and backend optimization.
+
 
 💞️ Open to collaborating on exciting full-stack projects.
 
