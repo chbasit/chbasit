@@ -1,9 +1,29 @@
-👋 Hi, I’m Basit!
+Hi, I’m Abdul Basit
 
-👀 I’m passionate about web development, specializing in React.js,Next.js and Node.js.
+🚀 Full-Stack Developer | React.js | Next.js | Node.js | MongoDB
 
+I’m a Computer Science graduate and full-stack developer experienced in building scalable, high-performance web applications using React, Next.js, Node.js, and MongoDB.
 
+I specialize in creating clean, responsive, and user-focused frontend interfaces while also developing secure and efficient backend systems with RESTful API integrations.
 
-💞️ Open to collaborating on exciting full-stack projects.
+💼 Currently working as a Full-Stack Developer at Scale Pixels, building AI-powered web applications and integrating LLM-based APIs into modern React interfaces.
+
+💡 I’m passionate about:
+
+Building intuitive and scalable web applications
+
+Optimizing performance and UI/UX
+
+Developing AI-integrated web solutions
+
+Writing clean, maintainable, and reusable code
+
+🤝 Open to collaborating on exciting frontend and full-stack projects.
 
 📫 Reach me at: abdulbasitswl2002@gmail.com
+
+🔗 GitHub: https://github.com/chbasit
+
+🔗 LinkedIn: https://linkedin.com/in/abdulbasit012/
+
+🌐 Portfolio: https://portfolio-sigma-ecru-41.vercel.app/
