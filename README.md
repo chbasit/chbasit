@@ -6,7 +6,6 @@ I’m a Computer Science graduate and full-stack developer experienced in buildi
 
 I specialize in creating clean, responsive, and user-focused frontend interfaces while also developing secure and efficient backend systems with RESTful API integrations.
 
-💼 Currently working as a Full-Stack Developer at Scale Pixels, building AI-powered web applications and integrating LLM-based APIs into modern React interfaces.
 
 💡 I’m passionate about:
 
