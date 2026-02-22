@@ -1,28 +1,70 @@
-Hi, I’m Abdul Basit
+# Abdul Basit
 
-🚀 Full-Stack Developer | React.js | Next.js | Node.js | MongoDB
+## Full-Stack Developer | React.js | Next.js | Node.js | MongoDB
 
-I’m a Computer Science graduate and full-stack developer experienced in building scalable, high-performance web applications using React, Next.js, Node.js, and MongoDB.
+Computer Science graduate and professional full-stack developer experienced in building scalable, high-performance web applications using modern JavaScript technologies.
 
-I specialize in creating clean, responsive, and user-focused frontend interfaces while also developing secure and efficient backend systems with RESTful API integrations.
+I specialize in developing clean, responsive, and user-focused frontend interfaces while also building secure, efficient backend systems with RESTful API integrations.
 
 
-💡 I’m passionate about:
 
-Building intuitive and scalable web applications
+## Tech Stack
 
-Optimizing performance and UI/UX
+### Frontend
+- React.js
+- Next.js
+- Tailwind CSS
+- JavaScript / TypeScript
+- Material UI
+- Bootstrap
 
-Developing AI-integrated web solutions
+### Backend
+- Node.js
+- Express.js
+- MongoDB
 
-Writing clean, maintainable, and reusable code
+### Tools
+- Git & GitHub
+- REST APIs
+- Performance Optimization
+- AI / LLM API Integration
 
-🤝 Open to collaborating on exciting frontend and full-stack projects.
 
-📫 Reach me at: abdulbasitswl2002@gmail.com
+## Professional Focus
 
-🔗 GitHub: https://github.com/chbasit
+- Building intuitive and scalable web applications  
+- Optimizing performance and UI/UX  
+- Developing AI-integrated web solutions  
+- Writing clean, maintainable, reusable code  
 
-🔗 LinkedIn: https://linkedin.com/in/abdulbasit012/
 
-🌐 Portfolio: https://portfolio-sigma-ecru-41.vercel.app/
+## Featured Repository
+
+### Quote Generator
+A simple and clean React-based quote generator application.
+
+Repository:  
+https://github.com/chbasit/quoteGenerator
+
+
+## All Repositories
+
+View all my repositories here:  
+https://github.com/chbasit?tab=repositories
+
+
+## Connect With Me
+
+Email: abdulbasitswl2002@gmail.com  
+
+<a href="https://github.com/chbasit">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/abdulbasit012/">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://portfolio-sigma-ecru-41.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
