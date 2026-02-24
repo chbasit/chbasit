@@ -2,10 +2,9 @@
 
 ## Full-Stack Developer | React.js | Next.js | Node.js | MongoDB
 
-Computer Science graduate and professional full-stack developer experienced in building scalable, high-performance web applications using modern JavaScript technologies.
+Full-stack developer experienced in building scalable, high-performance web applications using modern JavaScript technologies.
 
 I specialize in developing clean, responsive, and user-focused frontend interfaces while also building secure, efficient backend systems with RESTful API integrations.
-
 
 
 ## Tech Stack
