@@ -18,7 +18,6 @@
   <a href="mailto:abdulbasitswl2002@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
- 
 
 ## About
 
@@ -26,7 +25,6 @@ Full-stack developer focused on building **scalable, high-performance web applic
 I care about clean architecture, smooth UX, and shipping products that actually work under pressure.
 Currently exploring **AI/LLM integrations** to build smarter web experiences.
 
----
 
 ## Tech Stack
 
@@ -67,8 +65,6 @@ Currently exploring **AI/LLM integrations** to build smarter web experiences.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chbasit&theme=midnight-purple&hide_border=true" />
 </div>
 
----
-
  
 
 ## What I'm Building Toward
@@ -79,8 +75,6 @@ Performance-first     →  optimized from day one
 AI-integrated         →  LLM APIs embedded where they add value
 Clean code            →  readable, maintainable, reusable
 ```
-
----
 
 <div align="center">
 
