@@ -69,14 +69,7 @@ Currently exploring **AI/LLM integrations** to build smarter web experiences.
 
 ---
 
-## Featured Project
-
-### Quote Generator
-> A clean, minimal React app that fetches and displays random quotes.
-
-[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chbasit/quoteGenerator)
-
----
+ 
 
 ## What I'm Building Toward
 
