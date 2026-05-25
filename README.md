@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&text=Abdul%20Basit&fontSize=52&fontColor=ffffff&fontAlignY=55&animation=fadeIn" width="100%"/>
+ 
 
 </div>
 
