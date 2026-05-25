@@ -1,8 +1,9 @@
-<img width="1484" height="640" alt="image" src="https://github.com/user-attachments/assets/961c5378-d2de-477d-b66c-a77d06a6d1b5" /><div align="center">
+<div align="center">
 
-Abdul Basit 
+ # Abdul Basit
 
 </div>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;React+%2F+Next.js+%2F+Node.js;Building+Products+That+Scale;AI-Integrated+Web+Solutions" alt="Typing SVG" />
