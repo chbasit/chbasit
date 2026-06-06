@@ -24,7 +24,6 @@
 
 Full-stack developer focused on building **scalable, high-performance web applications** with modern JavaScript.
 I care about clean architecture, smooth UX, and shipping products that actually work under pressure.
-Currently exploring **AI/LLM integrations** to build smarter web experiences.
 
 
 ## Tech Stack
