@@ -12,7 +12,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://portfolio-sigma-ecru-41.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://abdul-basit-dev.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   &nbsp;
   <a href="https://linkedin.com/in/abdulbasit012/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   &nbsp;
