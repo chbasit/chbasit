@@ -75,6 +75,7 @@ Performance-first     →  optimized from day one
 AI-integrated         →  LLM APIs embedded where they add value
 Clean code            →  readable, maintainable, reusable
 ```
+ 
 
 <div align="center">
 
